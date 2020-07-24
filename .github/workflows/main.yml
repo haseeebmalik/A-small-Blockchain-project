@@ -38,5 +38,5 @@ jobs:
     - name: install web3
       run: npm install web3
     - name : deploying on surge
-      run: surge  gusty-wheel.surge.sh --token ${{secrets.SURGE_TOKEN}} 
+      run: surge  minor-apples.surge.sh--token ${{secrets.SURGE_TOKEN}} 
 
