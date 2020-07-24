@@ -8,6 +8,7 @@
    Link of the remote repository is as follow : [https://github.com/haseeebmalik/New-folder-3-] 
    
  ### Important :
-  - *Here we are not make any change in blockchain i.e we are not making any transaction .*
+  - *Please remember our contract is deployed on ***Ropsten Test Network*** .*
+  - *Here we are not making any change in blockchain i.e we are not making any transaction .*
   - *We are just reading the data from blockchain .*
-  - *Hence it will cost nothing : )  .*
+  - *Hence it will cost no gas : )  .*
