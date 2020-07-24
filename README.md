@@ -11,6 +11,7 @@
   - *Please remember our contract is deployed on ***Ropsten Test Network*** .*
   - *Here we are not making any change in blockchain i.e we are not making any transaction .*
   - *We are just reading the data from blockchain .*
+  - *Hence it will cost no gas : )  .*
   - *Please go to [***Ropsten Etherscan***](https://ropsten.etherscan.io/) to view the information about contract .* 
   - *Contract Address : ***0x3E148216435ed31219D87DcFc52AB505A732DAf3****
-  - *Hence it will cost no gas : )  .*
+  
