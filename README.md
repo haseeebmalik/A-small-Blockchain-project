@@ -5,7 +5,7 @@
  - After it we make a user interface using *HTML, CSS, JAVASCRIPT* .
  - Now the time come where ***Web3*** plays its role, Web3 connect our web app to the ropsten test network through infura client (using endpoints).
  - As development is incomplete without the version control system(VCS) ,here we use ***GIT*** and ***GITHUB*** for version controlling .    
-   Link of the remote repository is as follow : [Remote Repo](https://github.com/haseeebmalik/New-folder-3-) 
+   
    
  ### Important :
   - *Please remember our contract is deployed on ***Ropsten Test Network*** .*
