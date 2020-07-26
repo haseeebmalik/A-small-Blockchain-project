@@ -82,7 +82,7 @@ contract.methods.doSomeThing().call(function(err,result){
 	write.innerHTML=`message = ${err} `;
 }
      else
-	write.innerHTML=`message = ${result}`;
+	write.innerHTML=`return  ${result}`;
 })
 
 
