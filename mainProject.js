@@ -1,8 +1,8 @@
 
 /*in this code we are accessing the functions of one of our deployed
-contract on ropstin .This is not transaction ,we are only reading Data.
+contract on ropsten .This is not transaction ,we are only reading Data.
 In this case we are using abi.Here web3 is connecting us 
-with infura's ropstin node.
+with infura's ropsten node.
 we are accessing blockchain data on web browser.
 */ 
 
