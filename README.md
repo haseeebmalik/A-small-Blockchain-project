@@ -1,4 +1,4 @@
-### Connecting web to Ethereum Test Network (Ropsten)
+### Connecting web to Ethereum Main Network
 
 - We make a user interface using *HTML, CSS, JAVASCRIPT* .
  - Now the time come where ***Web3*** plays its role, Web3 connect our web app to the ropsten test network through infura client (using endpoints).
